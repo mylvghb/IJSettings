@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="accentColor" value="1e93e9" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="-5ef2cbc7:167d70d0be4:-8000" />
     <option name="version" value="3.5.0.1" />
   </component>
